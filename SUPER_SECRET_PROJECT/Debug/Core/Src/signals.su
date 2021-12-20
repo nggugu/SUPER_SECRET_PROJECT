@@ -1,0 +1,2 @@
+signals.c:27:6:generateSignals	8	static
+signals.c:42:6:sampling	40	static
